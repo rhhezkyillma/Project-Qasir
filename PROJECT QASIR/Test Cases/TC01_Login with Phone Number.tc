@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Login with Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad187ecb-6bb0-46bd-92b8-0a3f4ca29682</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73e76bd7-7754-4e59-8a13-4284a90e361f</id>
+      <masked>false</masked>
+      <name>kode_negara</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9ac38be3-4286-4fdc-a8c7-20b7e681a3bf</id>
+      <masked>false</masked>
+      <name>user_nohp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7f33e5fe-99f2-44c4-a634-25ddb12b3231</id>
+      <masked>false</masked>
+      <name>user_email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cfd500c4-704c-4bd8-8877-73aefdf9959e</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>812bba8b-46ab-43c1-9305-0021f55ab497</id>
+      <masked>false</masked>
+      <name>nama_outlet</name>
+   </variable>
+</TestCaseEntity>

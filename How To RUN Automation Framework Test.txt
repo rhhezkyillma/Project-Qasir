@@ -1,0 +1,14 @@
+How to run it :
+1. Open Katalon studio
+2. Prepare the file profil image and save on your drive :
+C:\Users\BRI\ProfilPict
+You can get that file in: DataImage/ProfilPict
+3. Select Test Suites 
+4. Select which one you login :
+login with phone number or login with email
+5. Must be selected for example :
+TC01_Login with Phone Number
+TC03_Choose The First Outlet
+TC04_ChangeProfil
+6. Then klik icon run (play button) and select run with google chrome.
+7. Thank you and Good Luck

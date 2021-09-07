@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Login with Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c932bc48-955f-4e35-bcd9-3c4b1136bfde</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2d6af41-944d-4a15-ac0d-66de79ac0038</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2f05cc1-630f-49f6-8b45-aea9354c6289</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

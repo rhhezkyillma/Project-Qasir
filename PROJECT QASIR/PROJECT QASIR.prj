@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Project Qasir :
+Qasir adalah sistem Point of Sale (POS) gratis &amp; lengkap dengan fitur-fitur untuk memenuhi kebutuhan kamu akan pencatatan transaksi, kelola stok produk, monitor keuangan dan pembayaran digital.</description>
+   <name>PROJECT QASIR</name>
+   <tag></tag>
+   <UUID>02dca943-91ab-43e6-a772-27faff39f2d3</UUID>
+   <migratedVersion>5.9.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>E:\KATALON DRIVE\Katalon Project Qasir\Project Qasir Web\PROJECT QASIR\PROJECT QASIR.prj</projectFileLocation>
+   <sourceContent>
+      <sourceFolderList>
+         <sourceFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </sourceFolderConfiguration>
+      </sourceFolderList>
+      <systemFolderList>
+         <systemFolderConfiguration>
+            <url>Include/scripts/groovy</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/features</url>
+         </systemFolderConfiguration>
+         <systemFolderConfiguration>
+            <url>Include/config</url>
+         </systemFolderConfiguration>
+      </systemFolderList>
+   </sourceContent>
+   <type>WEBUI</type>
+</Project>

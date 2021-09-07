@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Choose The First Outlet</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8cba1f2c-c8f5-4002-8b01-33892a826a5e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>393511d9-d21b-4393-9356-c5afd26f9151</id>
+      <masked>false</masked>
+      <name>nama_outlet</name>
+   </variable>
+</TestCaseEntity>
